@@ -1,3 +1,17 @@
+/* resources */
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
+
+/* page */
 @import url(../bloks/page/page.css);
+@import url(../bloks/page/__header/page__header.css);
+@import url(../bloks/page/__content/page__content.css);
+
+/* header */
+@import url(../bloks/header/header.css);
+@import url(../bloks/header/__logo/hesader__logo.css);
+@import url(../bloks/header/__lang-link/header__lang-link.css);
+
+/* content */
+@import url(../bloks/content/content.css);
+@import url(../bloks/content/__section/content__section.css);
