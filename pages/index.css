@@ -16,3 +16,10 @@
 /* content */
 @import url(../bloks/content/content.css);
 @import url(../bloks/content/__section/content__section.css);
+
+/* lead */
+@import url(../bloks/lead/lead.css);
+@import url(../bloks/lead/__title/lead__title.css);
+@import url(../bloks/lead/__subtitle/lead__subtitle.css);
+@import url(../bloks/lead/__image/lead__image.css);
+@import url(../bloks/lead/__caption/lead__caption..css);
