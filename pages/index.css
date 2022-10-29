@@ -15,7 +15,7 @@
 
 /* content */
 @import url(../bloks/content/content.css);
-@import url(../bloks/content/__section/content__section.css);
+@import url(../bloks/content/__lead/content__lead.css);
 
 /* lead */
 @import url(../bloks/lead/lead.css);

@@ -2,3 +2,8 @@
   margin-top: 53px;
   margin-bottom: 92px;
 }
+@media screen and (max-width: 1152px), (max-width: 896px) {
+  .page__content {
+    margin-top: 48px;
+  }
+}
