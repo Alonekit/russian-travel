@@ -16,6 +16,7 @@
 /* content */
 @import url(../bloks/content/content.css);
 @import url(../bloks/content/__lead/content__lead.css);
+@import url(../bloks/content/__intro/content__intro.css);
 
 /* lead */
 @import url(../bloks/lead/lead.css);
@@ -23,3 +24,10 @@
 @import url(../bloks/lead/__subtitle/lead__subtitle.css);
 @import url(../bloks/lead/__image/lead__image.css);
 @import url(../bloks/lead/__caption/lead__caption..css);
+
+/* intro */
+@import url(../bloks/intro/intro.css);
+@import url(../bloks/intro/__title/intro__title.css);
+@import url(../bloks/intro/__text/intro__text.css);
+@import url(../bloks/list/list.css);
+@import url(../bloks/list/__item/list__item.css);

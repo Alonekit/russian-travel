@@ -1,0 +1,20 @@
+.content__intro {
+  box-sizing: border-box;
+  padding: 0 0 0 148px;
+}
+@media screen and (max-width: 1152px) {
+  .content__intro {
+    padding-left: 48px;
+  }
+}
+
+@media screen and (max-width: 896px) {
+  .content__intro {
+    padding: 0 24px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .content__intro {
+    padding: 0 16px;
+  }
+}
