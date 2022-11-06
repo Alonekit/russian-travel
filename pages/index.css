@@ -18,6 +18,7 @@
 @import url(../bloks/content/__lead/content__lead.css);
 @import url(../bloks/content/__intro/content__intro.css);
 @import url(../bloks/content/__photo-grid/content__photo-grid.css);
+@import url(../bloks/content/__places/content__places.css);
 
 /* lead */
 @import url(../bloks/lead/lead.css);
@@ -37,3 +38,15 @@
 /* photo-grid */
 @import url(../bloks/photo-grid/photo-grid.css);
 @import url(../bloks/photo-grid/__item/photo-grid__item.css);
+
+/* places */
+@import url(../bloks/places/places.css);
+@import url(../bloks/place/place.css);
+@import url(../bloks/place/__title/place__title.css);
+@import url(../bloks/place/__image/places__image.css);
+@import url(../bloks/place/__website/place__website.css);
+@import url(../bloks/place/__url-heading/place__url-heading.css);
+@import url(../bloks/place/__link/place__link.css);
+@import url(../bloks/place/__paragraph/place__paragraph.css);
+@import url(../bloks/place/__subparagraph/place__subparagraph.css);
+@import url(../bloks/place/__description/place__description.css);

@@ -1,0 +1,22 @@
+.place__subparagraph {
+  max-width: 484px;
+  margin-top: 35px;
+}
+@media screen and (max-width: 1152px) {
+  .place__subparagraph {
+    margin-top: 32px;
+    max-width: 456px;
+  }
+}
+
+@media screen and (max-width: 862) {
+  .place__subparagraph {
+    max-width: 352px;
+    margin-top: 25px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .place__suparagraph {
+    max-width: 288px;
+  }
+}

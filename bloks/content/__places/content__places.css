@@ -1,0 +1,27 @@
+.content__places {
+  box-sizing: border-box;
+  margin: 0 auto;
+  width: 100%;
+  min-height: 3392px;
+  padding: 0 148px;
+}
+@media screen and (max-width: 1152px) {
+  .content__places {
+    padding: 0 48px;
+    min-width: 928px;
+    max-height: 3.292px;
+  }
+}
+@media screen and (max-width: 862px) {
+  .content__places {
+    padding: 0 24px;
+    min-width: 720px;
+    max-height: 2808px;
+  }
+}
+@media screen and (max-width: 544px) {
+  .content__places {
+    padding: 0;
+    min-width: 320px;
+  }
+}
