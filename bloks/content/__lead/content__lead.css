@@ -1,7 +1,6 @@
 .content__lead {
   box-sizing: border-box;
-  min-width: 100%;
-  max-height: 997px;
+  width: 100%;
   padding: 0 148px;
   margin: 0 auto;
 }
@@ -13,12 +12,6 @@
 }
 
 @media screen and (max-width: 896px) {
-  .content__lead {
-    padding: 0;
-  }
-}
-
-@media screen and (max-width: 544px) {
   .content__lead {
     padding: 0;
   }
