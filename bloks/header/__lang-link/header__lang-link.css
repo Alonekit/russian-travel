@@ -4,12 +4,13 @@
   margin-right: 18px;
   text-decoration: none;
   color: #fff;
+  text-align: right;
 }
 
 .header__lang-link:last-of-type {
   margin: 0;
 }
 
-.header__lang-link:hover {
+.header__lang-link:first-of-type {
   text-decoration: underline;
 }
