@@ -9,7 +9,7 @@
   .content__places {
     padding: 0 48px;
     min-width: 928px;
-    max-height: 3.292px;
+    /* max-height: 3.292px; */
   }
 }
 @media screen and (max-width: 862px) {
