@@ -1,12 +1,20 @@
 .place__subparagraph {
   max-width: 484px;
-  margin: 35px 0 0 0;
+  margin: 26px 0 0 0;
 }
+
+.place__subparagraph:nth-child(3) {
+  margin: 27px 0 0 0;
+}
+
 @media screen and (max-width: 1152px) {
   .place__subparagraph {
-    margin: 32px 0 0 0;
     max-width: 456px;
+    margin: 26px 0 0 0;
   }
+  /* .place__subparagraph:ch{
+    margin: 27px 0 0 0;
+  } */
 }
 
 @media screen and (max-width: 862) {

@@ -57,3 +57,6 @@
 @import url(../bloks/cover/__overlay/cover__overlay.css);
 @import url(../bloks/cover/__title/cover__title.css);
 @import url(../bloks/cover/__subtitle/cover__subtitle.css);
+.blabla {
+  margin-top: 27px;
+}
