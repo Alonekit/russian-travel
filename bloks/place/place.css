@@ -34,17 +34,15 @@
     grid-column-gap: 28px;
     font-size: 16px;
     line-height: 26.08px;
-    margin-top: 68px;
+    margin-top: 73px;
     grid-template-rows: 46px;
   }
   .place:nth-of-type(1) {
     grid-template-rows: 92px;
   }
-  .place:nth-of-type(4) {
-    margin-top: 73px;
-  }
+
   .place:nth-of-type(5) {
-    margin-top: 72px;
+    margin-top: 75px;
   }
 }
 
