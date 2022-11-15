@@ -1,6 +1,4 @@
 .place__description {
-  display: flex;
-  flex-direction: column;
   max-width: 488px;
 }
 @media screen and (max-width: 1152px) {
@@ -11,6 +9,9 @@
 @media screen and (max-width: 862px) {
   .place__description {
     max-width: 352px;
+  }
+  .place__description:first-child {
+    max-height: 441px;
   }
 }
 @media screen and (max-width: 544px) {

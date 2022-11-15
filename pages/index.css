@@ -52,6 +52,7 @@
 @import url(../bloks/place/__subparagraph/place__subparagraph.css);
 @import url(../bloks/place/__subparagraph/_position/place__subparagraph_position_desktop.css);
 @import url(../bloks/place/__subparagraph/_position/place__subparagraph_position_laptop.css);
+@import url(../bloks/place/__subparagraph/_position/place__subparagraph_position_tablet.css);
 @import url(../bloks/place/__description/place__description.css);
 
 /* cover */

@@ -10,7 +10,7 @@
   }
 }
 
-@media screen and (max-width: 862) {
+@media screen and (max-width: 862px) {
   .place__subparagraph {
     max-width: 352px;
     margin: 25px 0 0 0;
