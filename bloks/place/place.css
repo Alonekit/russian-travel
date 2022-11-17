@@ -41,4 +41,7 @@
     grid-row-gap: 32px;
     margin-top: 50px;
   }
+  .place:last-of-type {
+    margin-top: 50px;
+  }
 }

@@ -3,3 +3,9 @@
     margin-top: 25px;
   }
 }
+@media screen and (max-width: 544px) {
+  .place__subparagraph_position_tablet {
+    max-width: 100%;
+    padding: 0 16px;
+  }
+}
