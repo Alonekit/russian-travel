@@ -3,16 +3,25 @@
   width: 100%;
   padding: 0 148px;
   margin: 0 auto;
+  min-height: 1005px;
 }
 
 @media screen and (max-width: 1152px) {
   .content__lead {
     padding: 0 48px;
+    min-height: 962px;
   }
 }
 
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 862px) {
   .content__lead {
     padding: 0;
+    min-height: 862px;
+  }
+}
+
+@media screen and (max-width: 692px) {
+  .content__lead {
+    min-height: 408px;
   }
 }

@@ -10,13 +10,13 @@
     height: 580px;
   }
 }
-@media screen and (max-width: 896px) {
+@media screen and (max-width: 862px) {
   .lead__image {
     height: 480px;
     margin-top: 56px;
   }
 }
-@media screen and (max-width: 544px) {
+@media screen and (max-width: 692px) {
   .lead__image {
     margin-top: 40px;
     height: 200px;
